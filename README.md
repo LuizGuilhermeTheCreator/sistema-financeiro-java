@@ -26,5 +26,3 @@ O projeto consiste em um sistema completo de controle financeiro que permite cad
 Desenvolvido por **Luiz Guilherme de Oliveira**  
 - **LinkedIn:** [Luiz Guilherme de Oliveira](https://linkedin.com/in/luiz-guilherme-de-oliveira-a845b9361)  
 - **Portfólio:** [portfolioluizguilherme2026.netlify.app](https://portfolioluizguilherme2026.netlify.app)
- ├── view/           # Telas da interface gráfica (WindowBuilder)
- └── util/           # Conexão com o banco de dados (ConnectionFactory)
